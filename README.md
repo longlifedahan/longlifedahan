@@ -3,6 +3,7 @@
 - 🌱 I’m currently playing with stable diffusion with the nai models, and have made some textual inversion models myself(https://github.com/longlifedahan/NovelAI-Embeddings/)
 - 💞️ I’m looking to collaborate on (sorry, haven't decided yet)
 - 📫 How to reach me: you could see more on my homepage(https://longlifedahan.github.io/)
+- 岛是海的心‮~喵‭
 
 <!---
 longlifedahan/longlifedahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
